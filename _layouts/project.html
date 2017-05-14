@@ -7,7 +7,7 @@
     <h2 class="text-center">{{ page.title }}</h2>
     <hr class="star-primary">
     {% if page.img %}
-        <img src="/img/projects/{{ page.img }}" class="img-responsive img-centered" alt="{{ page.alt }}">
+        <img src="{{site.baseurl}}/img/projects/{{ page.img }}" class="img-responsive img-centered" alt="{{ page.alt }}">
     {% endif %}
     <p>{{ page.description }}</p>
     {% if page.youtube %}

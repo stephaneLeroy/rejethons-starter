@@ -1,4 +1,5 @@
 # Site settings
+baseurl: /rejethons-starter
 title: Rejethons Starter
 email: your-email@domain.com
 description: "Les Rejethons by Pictime Groupe"
