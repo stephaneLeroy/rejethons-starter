@@ -21,8 +21,14 @@
                     <li class="page-scroll">
                         <a href="{{site.baseurl}}/#portfolio">Les projets</a>
                     </li>
-                    <li class="page-scroll">
-                        <a href="{{site.baseurl}}/#about">About</a>
+                    <li>
+                        <a href="{{site.baseurl}}/sujet/">Le sujet</a>
+                    </li>
+                    <li>
+                        <a href="{{site.baseurl}}/sujet/help/">Aide</a>
+                    </li>
+                    <li>
+                        <a href="{{ site.github.repository_url }}/tree/master/{{ page.path }}" target="_blank"><span class="fa fa-github-alt"></span> Edit</a>
                     </li>
                 </ul>
             </div>
@@ -30,3 +36,27 @@
         </div>
         <!-- /.container-fluid -->
     </nav>
+
+   <script src="{{ site.baseurl }}/js/cbpAnimatedHeader.js"></script>
+   <script>
+     // jQuery for page scrolling feature - requires jQuery Easing plugin
+     $(function() {
+       $('.page-scroll a').bind('click', function(event) {
+         var $anchor = $(this);
+         $('html, body').stop().animate({
+           scrollTop: $($anchor.attr('href')).offset().top
+         }, 1500, 'easeInOutExpo');
+         event.preventDefault();
+       });
+     });
+
+     // Highlight the top nav as scrolling occurs
+     $('body').scrollspy({
+       target: '.navbar-fixed-top'
+     })
+
+     // Closes the Responsive Menu on Menu Item Click
+     $('.navbar-collapse ul li a').click(function() {
+       $('.navbar-toggle:visible').click();
+     });
+   </script>

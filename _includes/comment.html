@@ -8,7 +8,9 @@
             <p class="media-comment">
                 {{ message }}
             </p>
-            <a class="btn btn-warning btn-circle text-uppercase">{{ rating }} <span class="fa fa-star"></span></a>
+            {% if rating %}
+                <a class="btn btn-warning btn-circle text-uppercase">{{ rating }} <span class="fa fa-star"></span></a>
+            {% endif %}
         </div>
     </div>
 </li>
