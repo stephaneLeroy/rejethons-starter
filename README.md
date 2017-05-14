@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# Evento
 
-You can use the [editor on GitHub](https://github.com/stephaneLeroy/rejethons-starter/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Evento is a minimal, responsive theme for Jekyll. The projects allows people, groups or companies to host and show a list future and past events.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Features
 
-### Markdown
+* Clean layout
+* Responsive layout
+* Shows future and past events
+* Easy for people to add events
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+### Install and Test
 
-# Header 1
-## Header 2
-### Header 3
+1. Download or clone repo `git clone git@github.com:boyney123/evento.git`
+2. Enter the folder: `cd evento/`
+4. Start Jekyll server: `jekyll serve`
 
-- Bulleted
-- List
+Access via: [http://localhost:4000](http://localhost:4000)
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+### Demo and Download
 
-[Link](url) and ![Image](src)
-```
+[Demo](http://evento.davidboyne.co.uk)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Download](https://github.com/boyney123/evento/archive/master.zip)
 
-### Jekyll Themes
+### Screen Shot 1
+![Evento - free Jekyll theme](/screenshot.png)
+### Screen Shot 2
+![Evento - free Jekyll theme](/screenshot2.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stephaneLeroy/rejethons-starter/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
 
-### Support or Contact
+### Copyright and license
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+It is under [the MIT license](/LICENSE).
