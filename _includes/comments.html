@@ -1,8 +1,10 @@
-<div class="container">
+<section id="comments" class="container">
     <div class="row">
         <div class="col-sm-10 col-sm-offset-1">
             <div class="page-header">
                 <h3 class="reviews">Votez ou laisser un commentaire!</h3>
+                {% assign link = "#comments" %}
+                {% include comments-score.html comments=comments link=link %}
             </div>
             <div class="comment-tabs">
                 <ul class="nav nav-tabs" role="tablist">
@@ -13,12 +15,12 @@
                     <div class="tab-pane active" id="comments-logout">
                         <ul class="media-list">
                             {% for comment in comments %}
-                            {% assign email = comment[1].email %}
-                            {% assign name = comment[1].name %}
-                            {% assign rating = comment[1].rating %}
-                            {% assign date = comment[1].date %}
-                            {% assign message = comment[1].message %}
-                            {% include comment.html index=forloop.index email=email name=name rating=rating date=date message=message %}
+                                {% assign email = comment[1].email %}
+                                {% assign name = comment[1].name %}
+                                {% assign rating = comment[1].rating %}
+                                {% assign date = comment[1].date %}
+                                {% assign message = comment[1].message %}
+                                {% include comment.html index=forloop.index email=email name=name rating=rating date=date message=message %}
                             {% endfor %}
                         </ul>
                     </div>
@@ -69,7 +71,7 @@
             </div>
         </div>
     </div>
-</div>
+</section>
 <script>
   $('.rating input').change(function () {
     var $radio = $(this);

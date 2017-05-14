@@ -1,0 +1,12 @@
+{% assign total = 0.0 %}
+{% assign count = 0 %}
+{% for comment in comments %}
+    {% if comment[1].rating %}
+        {% assign total = total | plus: comment[1].rating %}
+        {% assign count = count | plus: 1 %}
+    {% endif %}
+{% endfor %}
+{% if count != 0 and total != 0 %}
+    {% assign total = total | divided_by: count %}
+{% endif %}
+<a href="{{link}}" class="badge">Score : {{ total }}<span class="fa fa-star"></span></a>

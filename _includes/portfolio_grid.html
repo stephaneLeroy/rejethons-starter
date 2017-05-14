@@ -10,7 +10,10 @@
             </div>
             <div class="row">
                 {% for post in site.posts %}
+                    {% assign comments = site.data.comments[post.slug] %}
                     <div class="col-sm-4 portfolio-item">
+                        {% assign link = site.baseurl | append: post.url | append: "#comments"%}
+                        {% include comments-score.html comments=comments link=link %}
                         <a href="{{site.baseurl}}{{ post.url }}" class="portfolio-link" data-toggle="modal">
                             <div class="caption">
                                 <div class="caption-content">
