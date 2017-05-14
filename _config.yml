@@ -2,10 +2,10 @@
 title: Rejethons Starter
 email: your-email@domain.com
 url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Les Rejethons by Pictime Groupe"
 keywords: "hackathon, iot"
 skills: "Trouver le concept - le realiser - le promouvoir"
-meta_author: LastName FirstName
+meta_author: Pictime Groupe
 
 # Google webmaster tools
 google_verify:
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Les Rejethons - Pictime Groupe
   location: Location
   social: Around the Web
   credits: Credits
@@ -52,11 +52,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Campus du Digital
+  - line: Parc de la Haute Borne
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'La team hackathon'
 
 # Build settings
 markdown: kramdown
