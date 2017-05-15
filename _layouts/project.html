@@ -5,12 +5,7 @@ layout: default
 <div class="container page-body">
     <h2 class="text-center">{{ page.title }}</h2>
     <hr class="star-primary">
-    {% if page.youtube %}
-        <iframe class="center-block" width="560" height="315" src="https://www.youtube.com/embed/{{ page.youtube }}?ecver=1" frameborder="0" allowfullscreen></iframe>
-    {% else if page.img %}
-        <img src="{{site.baseurl}}/img/projects/{{ page.img }}" class="img-responsive img-centered" alt="{{ page.alt }}">
-    {% endif %}
-    <div>{{ content }}</div>
+    <div class="markdown-body">{{ content }}</div>
     <ul class="list-inline item-details">
         <li>Equipe:
             <strong>{{ page.team }}</strong>

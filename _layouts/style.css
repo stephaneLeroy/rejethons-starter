@@ -1,3 +1,4 @@
 {% include css/bootstrap.min.css %}
+{% include css/markdown.css %}
 {% include css/main.css %}
 {% include css/comments.css %}
