@@ -10,3 +10,5 @@ alt: Nom du projet?
 
 # Toto
 Le Gras, c'est la Vie !!
+
+img: le-gras-c-est-la-vie-saucisse.png
