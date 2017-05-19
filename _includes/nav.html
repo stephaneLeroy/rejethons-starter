@@ -9,7 +9,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="{{site.baseurl}}/#page-top">{{ site.title }}</a>
+                <a id="navHome" class="navbar-brand" href="{{site.baseurl}}/#page-top">{{ site.title }}</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -18,17 +18,20 @@
                     <li class="hidden">
                         <a href="{{site.baseurl}}/#page-top"></a>
                     </li>
-                    <li class="page-scroll">
+                    <li id="navProjects" class="page-scroll">
                         <a href="{{site.baseurl}}/#portfolio">Les projets</a>
                     </li>
-                    <li>
+                    <li id="navSubject">
                         <a href="{{site.baseurl}}/sujet/">Le sujet</a>
                     </li>
-                    <li>
+                    <li id="navHelp">
                         <a href="{{site.baseurl}}/sujet/help/">Aide</a>
                     </li>
-                    <li>
+                    <li id="navGithub">
                         <a href="{{ site.github.repository_url }}/tree/master/{{ page.path }}" target="_blank"><span class="fa fa-github-alt"></span> Edit</a>
+                    </li>
+                    <li id="navTour">
+                        <a href="#"><span class="fa fa-bullhorn"></span><sup> Get a tour</sup></a>
                     </li>
                 </ul>
             </div>

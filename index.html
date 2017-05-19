@@ -4,3 +4,65 @@ layout: default
 
 {% include header.html %}
 {% include portfolio_grid.html %}
+
+<script src="{{ site.baseurl }}/js/uxTour.js"></script>
+<script>
+  var uxTour = new uxTour({
+      opacity: 0.8,
+      color: '#2196F3',
+      buttonText: '<div class="btn btn-success">Next</div>',
+      padding: 1
+    });
+
+  var tour = {
+    steps: [
+      {
+        element: 'navHome',
+        text: '<div><h4>Bienvenue sur le site Les Rejethons Starter!</h4>' +
+        'Faisons un rapide tour ensemble</div>',
+        position: 'fixed'
+      },
+      {
+        element: 'navSubject',
+        text: '<div"><h4>Le Sujet</h4>Ce lien vous amenera au sujet de ce hackathons. ' +
+        'Il contient le detail des livrables et de la notation</div>',
+        position: 'fixed'
+      },
+      {
+        element: 'navHelp',
+        text: '<div><h4>L\'Aide</h4>Ce lien vous redirigera vers l\'aide. ' +
+        'Vous y trouverez des informations sur la facon de publier votre projet sur ce site</div>',
+        position: 'fixed'
+      },
+      {
+        element: 'navGithub',
+        text: '<div><h4>Github</h4>Toutes les pages de ce site sont directement modifiable sur Github. ' +
+        'Le site est ensuite mis a jour automatiquement.<br>' +
+        'Ce lien vous amene directement au fichier a modifier</div>',
+        position: 'fixed'
+      },
+      {
+        element: 'project-1',
+        text: '<div><h4>Les Projets</h4>La liste des projets se trouve ici. <br>' +
+        'cliquez dessus pour y acceder.</div>'
+      },
+      {
+        element: 'project-note-1',
+        text: '<div><h4>Notation</h4>Remarquez le systeme de notation. ' +
+        'Il est base sur les commentaires en bas de votre page projet. ' +
+        'Cliquer sur la note pour avoir le detail</div>'
+      }
+    ]
+  };
+
+  $('#navTour').click(function() {
+    uxTour.start(tour);
+  });
+  $( document ).ready(function() {
+    var tourDone = localStorage.getItem('tourDone');
+    if ( tourDone !== 'true' ) {
+      uxTour.start(tour);
+      localStorage.setItem('tourDone', 'true');
+    }
+  });
+</script>

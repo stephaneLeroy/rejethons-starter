@@ -8,19 +8,24 @@
                     <hr class="star-primary">
                 </div>
             </div>
-            <div class="row">
+            <div id="projets" class="row">
                 {% for post in site.posts %}
+                    {% assign rowmod = forloop.index0 | modulo: 3 == 0 %}
+                    {% if rowmod == 0 %}
+                        <div class="clearfix"></div>
+                    {% endif %}
                     {% assign comments = site.data.comments[post.slug] %}
-                    <div class="col-sm-4 portfolio-item">
+                    <div id="project-{{ forloop.index }}" class="col-sm-4 portfolio-item">
                         {% assign link = site.baseurl | append: post.url | append: "#comments"%}
-                        {% include comments-score.html comments=comments link=link %}
-                        <a href="{{site.baseurl}}{{ post.url }}" class="portfolio-link" data-toggle="modal">
+                        {% assign id = "project-note-" | append: forloop.index %}
+                        {% include comments-score.html comments=comments link=link id=id %}
+                        <a href="{{site.baseurl}}{{ post.url }}" class="portfolio-link">
                             <div class="caption">
                                 <div class="caption-content">
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="{{site.baseurl}}/img/projects/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+                            <img src="{{site.baseurl}}/img/projects/{{ post.img }}"  style="max-height:250px" class="img-responsive img-centered" alt="{{ post.alt }}">
                         </a>
                     </div>
                 {% endfor %}

@@ -4,25 +4,21 @@ layout: page
 
 # Markdown
 
-Le markdown est une syntaxe simple permettant de formater du text.
+Le markdown est une syntaxe simple permettant de formater du texte.
 
-Vous trouver une documentation fournie [ici](https://guides.github.com/features/mastering-markdown/)
+Vous trouverez une documentation fournie [ici](https://guides.github.com/features/mastering-markdown/)
 
+Allez voir [le projet demo]({{ site.baseurl }}/2017/05/14/demo/) pour un exemple concret 
 
 # Jekyll et outils de ce site
 
-Pour simplifier certaines taches, vous avez a disposition certain outils
+Ce site est base sur Jekyll. Si vous le souhaitez, vous pouvez ajouter vos propres templates
 
-#### Vous pouvez facilement inclure une video youtube
-```
-{{ "{% include youtube.html vid='votre VID' " }}%}
-```
-Exemple :
-{% include youtube.html vid="E_A4wsvXxLY" %}
-
+Voici un [lien vers une cheatsheet](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers) de la syntax Liquid utilisee par Jekyll
 
 #### Vous pouvez mixer markdown et HTML
-Pour information, bootstrap et font awesome sont disponibles de base
+
+Pour information, bootstrap et font awesome sont disponibles de base.
 ```
 <div class="badge">
   <span class="fa fa-bullhorn fa-2x"></span>.....Tadaaam!
@@ -34,7 +30,8 @@ Resultat :
   <span class="fa fa-bullhorn fa-2x"></span>.....Tadaaam!
 </div>
 
-On aurait donc pu inclure la video precedente ainsi :
+Vous pouvez ainsi inclure images et videos en html :
 ```
-<iframe class="center-block" width="560" height="315" src="https://www.youtube.com/embed/E_A4wsvXxLY?ecver=1" frameborder="0" allowfullscreen></iframe>
+<iframe class="center-block" src="//rejethons.libcast.com/widget/vid_30870213_112828-mp4" class="libcast_player" width="720" height="720" frameborder="0" scrolling="no" allowfullscreen></iframe>
 ```
+<iframe class="center-block" src="//rejethons.libcast.com/widget/vid_30870213_112828-mp4" class="libcast_player" width="720" height="720" frameborder="0" scrolling="no" allowfullscreen></iframe>

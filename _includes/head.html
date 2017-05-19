@@ -10,13 +10,14 @@
     <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
 
     <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
+    <link rel="stylesheet" href="{{site.baseurl}}/css/bootstrap.min.css">
+    {% if layout.markdown %}
+    <link rel="stylesheet" href="{{site.baseurl}}/css/markdown.css">
+    {% endif %}
     <link rel="stylesheet" href="{{site.baseurl}}/style.css">
-
-    <!-- Google verification -->
-    {% if site.google_verify %}<meta name="google-site-verification" content="{{ site.google_verify }}">{% endif %}
-
-    <!-- Bing Verification -->
-    {% if site.bing_verify %}<meta name="msvalidate.01" content="{{ site.bing_verify }}">{% endif %}
+    {% if layout.comments %}
+    <link rel="stylesheet" href="{{site.baseurl}}/css/comments.css">
+    {% endif %}
 
     <!-- Custom Fonts -->
     <link rel="stylesheet" href="{{site.baseurl}}/css/font-awesome/css/font-awesome.min.css">
@@ -29,5 +30,15 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
-    {% include js.html %}
+    <!-- jQuery Version 1.11.0 -->
+    <script src="{{ site.baseurl }}/js/jquery-1.11.0.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="{{ site.baseurl }}/js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="{{ site.baseurl }}/js/jquery.easing.min.js"></script>
+    <script src="{{ site.baseurl }}/js/classie.js"></script>
+
+    <script src="{{ site.baseurl }}/js/jqBootstrapValidation.js"></script>
 </head>

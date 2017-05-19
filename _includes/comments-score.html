@@ -9,4 +9,4 @@
 {% if count != 0 and total != 0 %}
     {% assign total = total | divided_by: count %}
 {% endif %}
-<a href="{{link}}" class="badge">Score : {{ total }}<span class="fa fa-star"></span></a>
+<a href="{{link}}" class="badge" id="{{id}}">Score : {{ total }}<span class="fa fa-star"></span></a>
