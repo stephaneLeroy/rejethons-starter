@@ -43,7 +43,7 @@ alt: Piggy Mon€y
 </ul>
 <center><button type="button" class="fa fa-mobile" class="btn btn-danger">Et tout ça directement depuis son téléphone !</button></center>
 
-<div class="fa fa-bookmark-o fa-2"><h3>Pour les enfants</h3></div>
+<div class="fa fa-bookmark-o fa-2" style="font-size:22px;text-variant:small-caps;"><u>Pour les enfants</u></div>
 <ul>
 <li> Toujours savoir l'argent qu'il possède</li>
 <li> Pouvoir retirer son argent quand il le souhaite</li>
@@ -57,7 +57,7 @@ alt: Piggy Mon€y
  </td>  <td> 
 <img src="http://www.e-playbuyers.com/Files/86582/Img/11/TIR21V-Z2-1-.jpg" style="border-bottom:3px solid black;"/>
 <center>Nous avons <br />
-<div style="font-size:25px;text-align:center;color:darkred;background-image:url('http://icon-icons.com/icons2/550/PNG/96/business-color_pig_icon-icons.com_53440.png'); padding-top:15px;width:96px; height:96px;"> 104 €<br />
+<div style="font-size:25px;text-align:center;color:darkred;background-image:url('http://icon-icons.com/icons2/550/PNG/96/business-color_pig_icon-icons.com_53440.png'); padding-top:35px;width:96px; height:96px;"> 104 €<br />
 </div> 
 sur les 4500€ attendus <br /><br />
 
