@@ -57,10 +57,10 @@ alt: Piggy Mon€y
 Nous avons <br />
 <div style="font-size:25px;text-align:center;color:darkred;"> 104 €<br />
 </div> 
-sur les 4500€ attendus <br /><br /><br />
+sur les 4500€ attendus <br /><br />
 
-<button type="button" class="btn btn-danger"> Contribuez !</button>
-<br />
-Actuellement, <span style="color:darkred;"> 7 </span> personnes ont contribué
+<center><button type="button" class="btn btn-danger"> Contribuez !</button></center>
+<br /> <br />
+<span style="font-size:11px;">Actuellement, <span style="color:darkred;"> 7 </span> personnes ont contribué</span>
 
 </td> </tr></table>
