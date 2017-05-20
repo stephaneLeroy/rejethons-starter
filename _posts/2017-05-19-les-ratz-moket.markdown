@@ -23,16 +23,16 @@ alt: Piggy Mon€y
 <li> Accéder à l'historique des transactions, savoir ce que l'enfant a retiré, et connaître l'état actuel de la tirelire</li>
 <li> Être averti quand il n'y a plus d'argent en stock</li>
 </ul>
-<center><span class="fa fa-mobile" class="bg-success" >Et tout ça directement depuis son téléphone !</span></center>
+<center><span class="fa fa-mobile">Et tout ça directement depuis son téléphone !</span></center>
 
 <div class="fa fa-bookmark-o">Pour les enfants</div>
 <ul>
-<li> Toujours savoir l'argent qu'il possède
+<li> Toujours savoir l'argent qu'il possède</li>
 <li> Pouvoir retirer son argent quand il le souhaite</li>
 <li> Être indépendant de ses parents pour financer ses petits projets !</li>
 </ul>
 
-<center><span class="fa fa-mobile" class="bg-success" >Et tout ça depuis sa tirelire !</span></center>
+<center><span class="fa fa-mobile">Et tout ça depuis sa tirelire !</span></center>
 
 
 <center> <h2 class="bg-warning" style="height:50px; font-size:22px;">La tirelire nouvelle génération</h2></center>
@@ -42,10 +42,10 @@ alt: Piggy Mon€y
 
 
 
-<i class="fa fa-plus" aria-hidden="true"></i> Ludique
-<i class="fa fa-plus" aria-hidden="true"></i> Facile d'utilisation
-<i class="fa fa-plus" aria-hidden="true"></i> Prépare à gérer son argent
-<i class="fa fa-plus" aria-hidden="true"></i> Tout se fait en 1 click !
+<i class="fa fa-plus" aria-hidden="true"></i> Ludique <br />
+<i class="fa fa-plus" aria-hidden="true"></i> Facile d'utilisation <br />
+<i class="fa fa-plus" aria-hidden="true"></i> Prépare à gérer son argent <br />
+<i class="fa fa-plus" aria-hidden="true"></i> Tout se fait en 1 click ! <br />
 
 
 
@@ -60,28 +60,28 @@ sur les 4500€ attendus <br /><br />
 <span style="font-size:11px;">Actuellement, <span style="color:darkred;"> 7 </span> personnes ont contribué</span>
 
 <div><h4>Pour 5€ donnés...</h4>
-- Un gros merci, et une pensée pour vous !
+- Un gros merci, et une pensée pour vous !<br />
 </div>
 <div><h4>Pour 20€ donnés...</h4>
-- Un gros merci, et une pensée pour vous !
-- Un poster dédicacé par nos développeurs !
+- Un gros merci, et une pensée pour vous !<br />
+- Un poster dédicacé par nos développeurs !<br />
 </div>
 <div><h4>Pour 35€ donnés...</h4>
-- Un gros merci, et une pensée pour vous !
-- Un poster dédicacé par nos développeurs !
-- Un porte-monnaie en forme de cochon !
+- Un gros merci, et une pensée pour vous !<br />
+- Un poster dédicacé par nos développeurs !<br />
+- Un porte-monnaie en forme de cochon !<br />
 </div>
-<div><h4>Pour 50€ et + donnés...</h4>
-- Un gros merci, et une pensée pour vous !
-- Un poster dédicacé par nos développeurs !
-- Un porte-monnaie en forme de cochon !
-- Un cochon-tireline (mais non connectée !)
+<div><h4>Pour 50€ donnés...</h4>
+- Un gros merci, et une pensée pour vous !<br />
+- Un poster dédicacé par nos développeurs !<br />
+- Un porte-monnaie en forme de cochon !<br />
+- Un cochon-tireline (mais non connectée !)<br />
 </div>
-<div><h4>Pour 50€ et + donnés...</h4>
-- Un gros merci, et une pensée pour vous !
-- Un poster dédicacé par nos développeurs !
-- Un porte-monnaie en forme de cochon !
-- Un cochon-tireline non connectée mais <b>collector !</b>
+<div><h4>Pour 100€ et + donnés...</h4>
+- Un gros merci, et une pensée pour vous !<br />
+- Un poster dédicacé par nos développeurs !<br />
+- Un porte-monnaie en forme de cochon !<br />
+- <b>La tirelire connectée ! </b>
 </div>
 
 
