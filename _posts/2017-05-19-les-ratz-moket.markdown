@@ -19,9 +19,7 @@ alt: Piggy Mon€y
 <center> <h2 class="bg-warning" style="height:50px; font-size:22px;">La tirelire nouvelle génération</h2></center>
 <i class="fa fa-asterisk fa-2" aria-hidden="true"></i> Piggy Mon€y se présente sous la forme d'un cochon-tirelire, et dispose d'une fente dans laquelle glisser les pièces. Celles-ci sont automatiquement détectées, et les yeux de Piggy s'allument grâce à cette entrée d'argent ! Un écran est situé sur son dos, permettant à l'enfant de consulter son total d'argent disponible, et de le retirer. 
 
-
-
- <br /> <br /> <br />
+ <br /> <br /> 
 <div style="padding-left:200px;"> 
 <i class="fa fa-plus" aria-hidden="true"></i> Ludique <br />
 <i class="fa fa-plus" aria-hidden="true"></i> Facile d'utilisation <br />
@@ -29,12 +27,9 @@ alt: Piggy Mon€y
 <i class="fa fa-plus" aria-hidden="true"></i> Tout se fait en 1 click ! <br />
 </div>
 
-
-
-
 <center> <h2 class="bg-warning" style="height:50px; font-size:22px;">Un concept de banque, adapté aux enfants !</h2></center>
 
-<div class="fa fa-bookmark-o fa-2"> <h3>Pour les parents</h3></div>
+<div class="fa fa-bookmark-o fa-2" style="font-size:22px;text-variant:small-caps;"><u> Pour les parents</u></div>
 <ul>
 <li> Pouvoir mettre de l'argent en stock dans la tirelire</li>
 <li> Débloquer de l'argent 
@@ -45,7 +40,7 @@ alt: Piggy Mon€y
 </ul>
 <center><button type="button" class="fa fa-mobile" class="btn btn-danger">Et tout ça directement depuis son téléphone !</button></center>
 
-<div class="fa fa-bookmark-o fa-2" style="font-size:22px;text-variant:small-caps;"><u>Pour les enfants</u></div>
+<div class="fa fa-bookmark-o fa-2" style="font-size:22px;text-variant:small-caps;"><u> Pour les enfants</u></div>
 <ul>
 <li> Toujours savoir l'argent qu'il possède</li>
 <li> Pouvoir retirer son argent quand il le souhaite</li>
@@ -60,7 +55,7 @@ alt: Piggy Mon€y
  </td>  <td> 
 <img src="http://www.e-playbuyers.com/Files/86582/Img/11/TIR21V-Z2-1-.jpg" style="border-bottom:3px solid black;"/>
 <center>Nous avons <br />
-<div style="font-size:25px;text-align:center;color:darkred;background-image:url('http://icon-icons.com/icons2/550/PNG/96/business-color_pig_icon-icons.com_53440.png'); padding-top:35px;width:96px; height:96px;"> 104 €<br />
+<div style="font-size:25px;text-align:center;color:darkred;background-image:url('http://icon-icons.com/icons2/550/PNG/96/business-color_pig_icon-icons.com_53440.png'); padding-top:40px;padding-left:6px;width:96px; height:96px;"> 104 €<br />
 </div> 
 sur les 4500€ attendus <br /><br />
 
