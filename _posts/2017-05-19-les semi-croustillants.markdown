@@ -10,8 +10,7 @@ alt: MyQuest
 
 <iframe class="center-block" src="//rejethons.libcast.com/widget/semi_croustillants-mp4" class="libcast_player" width="1280" height="720" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-
-<div style="margin: auto"> ![logo MQuest]({{site.baseurl}}/img/Logo_myquest.png)</div>
+![logo MQuest]({{site.baseurl}}/img/Logo_myquest.png)
 
 MyQuest, c'est une nouvelle solution pour mettre de l'interactivité et de l'aventure, ancrée dans le réel. 
 A la croisée des chemins du role-play et du GeoCaching, le but est de trouver des endroits marqués autour du joueur,  de répondre à des questions pour triompher et ouvrir le coffre.
