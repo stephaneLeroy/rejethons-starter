@@ -13,7 +13,7 @@ Piggy Mon€y, c'est une tirelire, mais pas n'importe laquelle ! Avec Piggy, les
 <div><span class="fa fa-question-circle" style="height:80px;"></span>L'idée</div>
 
 Avec Piggy, les parents peuvent contrôler l'argent de poche de leurs enfants. Ils peuvent les récompenser en ajoutant de l'argent dans la tirelire, et Piggy s'allume pour prévenir l'enfant ! Celui-ci peut voir directement combien il a gagné d'argent, et son argent total ! 
-<center> <span class="bg-success" style="height:50px; font-size:22px">Un concept de banque, adapté aux enfants !</span></center>
+<center> <h2 class="bg-warning" style="height:50px; font-size:22px; padding: 50px 10px 50px 10px">Un concept de banque, adapté aux enfants !</h2></center>
 
 <div class="fa fa-bookmark-o">Pour les parents</div>
 <ul>
