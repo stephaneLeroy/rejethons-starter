@@ -9,7 +9,7 @@ alt: Baby Safe
 ---
 <html>
 <p>
-<h2>Mobile connecté Baby Safe, par la Société Anonyme "50 Nuances de Gras"</h2>
+<h2>BabySafe, la sécurité Mobile !</h2>
 
 <iframe class="center-block" src="//rejethons.libcast.com/widget/baby_safe-mov" class="libcast_player" width="1280" height="720" frameborder="0" scrolling="no" allowfullscreen></iframe> 
 
