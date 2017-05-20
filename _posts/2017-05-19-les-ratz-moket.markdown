@@ -78,7 +78,7 @@ sur les 4500€ attendus <br /><br />
 - Un gros merci, et une pensée pour vous !<br />
 - Un poster dédicacé par nos développeurs !<br />
 - Un porte-monnaie en forme de cochon !<br />
-- Un cochon-tireline (mais non connectée !)<br />
+- Un cochon-tireline (mais non connecté !)<br />
 </div>
 <div><h4>Pour 100€ et + donnés...</h4>
 - Un gros merci, et une pensée pour vous !<br />
