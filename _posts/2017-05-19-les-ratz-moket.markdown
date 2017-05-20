@@ -39,7 +39,7 @@ alt: Piggy Mon€y
 <li> Accéder à l'historique des transactions, savoir ce que l'enfant a retiré, et connaître l'état actuel de la tirelire</li>
 <li> Être averti quand il n'y a plus d'argent en stock</li>
 </ul>
-<center><button type="button" class="fa fa-mobile" class="btn btn-danger">Et tout ça directement depuis son téléphone !</button></center>
+<center><div class="fa fa-mobile" class="btn btn-danger">Et tout ça directement depuis son téléphone !</div></center>
  <br />
 <div class="fa fa-bookmark-o fa-2" style="font-size:22px;text-variant:small-caps;"><u> Pour les enfants</u></div>
 <ul>
@@ -48,9 +48,9 @@ alt: Piggy Mon€y
 <li> Être indépendant de ses parents pour financer ses petits projets !</li>
 </ul>
 
-<center><button type="button" class="fa fa-superpowers" class="btn btn-danger">Et tout ça depuis sa tirelire !</button></center>
+<center><div class="fa fa-superpowers" class="btn btn-danger">Et tout ça depuis sa tirelire !</div></center>
 <br /> <br />
-<center><img src="https://img4.hostingpics.net/pics/817482IMG20052017040222.jpg" style="width:70%;"/></center>
+<center><img src="https://img4.hostingpics.net/pics/501229IMG3335.jpg" style="width:70%;"/></center>
 <div style="font-size:12px;text-align:center;">Piggy, c'est lui en ce moment ! </div>
 
  </td>  <td style="border:#2c3e50 solid 4px;text-align:justify;"> 
