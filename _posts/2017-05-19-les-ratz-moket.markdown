@@ -11,6 +11,8 @@ alt: Piggy Mon€y
 <i class="fa fa-asterisk fa-2" aria-hidden="true"></i> Piggy Mon€y, c'est une tirelire, mais pas n'importe laquelle ! Avec Piggy, les enfants savent à n'importe quel moment combien d'argent ils possèdent, et les parents peuvent gérer l'argent qu'ils leur donnent... Un compte bancaire adapté à la jeunesse ! 
 
 <table> <tr> <td> 
+
+
 <i class="fa fa-asterisk fa-2" aria-hidden="true"></i> Avec Piggy, les parents peuvent contrôler l'argent de poche de leurs enfants. Ils peuvent les récompenser en ajoutant de l'argent dans la tirelire, et Piggy s'allume pour prévenir l'enfant ! Celui-ci peut voir directement combien il a gagné d'argent, et son argent total ! 
 
 
@@ -52,7 +54,8 @@ alt: Piggy Mon€y
 
 <center><button type="button" class="fa fa-superpowers" class="btn btn-danger">Et tout ça depuis sa tirelire !</button></center>
 
-
+<img src="https://img4.hostingpics.net/pics/817482IMG20052017040222.jpg" />
+<div style="font-size:12px;text-align:center;">Piggy, c'est lui en ce moment ! </div>
 
  </td>  <td> 
 <img src="http://www.e-playbuyers.com/Files/86582/Img/11/TIR21V-Z2-1-.jpg" style="border-bottom:3px solid black;"/>
