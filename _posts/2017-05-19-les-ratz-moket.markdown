@@ -57,7 +57,7 @@ alt: Piggy Mon€y
  </td>  <td> 
 <img src="http://www.e-playbuyers.com/Files/86582/Img/11/TIR21V-Z2-1-.jpg" style="border-bottom:3px solid black;"/>
 Nous avons <br />
-<div style="font-size:25px;text-align:center;color:darkred;"> 104 €<br />
+<div style="font-size:25px;text-align:center;color:darkred;background-image:url('http://icon-icons.com/icons2/550/PNG/128/business-color_pig_icon-icons.com_53440.png'); padding-top:8px;"> 104 €<br />
 </div> 
 sur les 4500€ attendus <br /><br />
 
