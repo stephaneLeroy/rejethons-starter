@@ -39,7 +39,7 @@ alt: Piggy Mon€y
 <li> Être averti quand il n'y a plus d'argent en stock</li>
 </ul>
 <center><button type="button" class="fa fa-mobile" class="btn btn-danger">Et tout ça directement depuis son téléphone !</button></center>
-
+ <br />
 <div class="fa fa-bookmark-o fa-2" style="font-size:22px;text-variant:small-caps;"><u> Pour les enfants</u></div>
 <ul>
 <li> Toujours savoir l'argent qu'il possède</li>
@@ -48,7 +48,7 @@ alt: Piggy Mon€y
 </ul>
 
 <center><button type="button" class="fa fa-superpowers" class="btn btn-danger">Et tout ça depuis sa tirelire !</button></center>
-
+<br /> <br />
 <img src="https://img4.hostingpics.net/pics/817482IMG20052017040222.jpg" style="width:100%;"/>
 <div style="font-size:12px;text-align:center;">Piggy, c'est lui en ce moment ! </div>
 
