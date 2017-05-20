@@ -53,4 +53,13 @@ alt: Piggy Mon€y
 
 
  </td>  <td> 
-<img src="http://www.e-playbuyers.com/Files/86582/Img/11/TIR21V-Z2-1-.jpg" /></td> </tr></table>
+<img src="http://www.e-playbuyers.com/Files/86582/Img/11/TIR21V-Z2-1-.jpg" style="border-bottom:3px solid black;"/>
+Nous avons <br >
+<span style="font-size:25px"> 104 €
+</span> 
+sur les 4500€ demandés
+
+<button type="button" class="btn btn-danger"> Contribuez !</button>
+
+
+</td> </tr></table>
