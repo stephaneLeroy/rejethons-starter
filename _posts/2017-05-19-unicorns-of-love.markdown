@@ -83,10 +83,10 @@ Nouvelle fonctionnalité : Contrôle d'alcoolémie & détection de substances to
 
 
 
-Console d'administration
-
-Pour quelques piecettes vous pouvez étendre les fonctionalités de votre Licorne
 ![Diapositive 6]({{ site.baseurl }}/img/admin.png)
+Console d'administration
+Pour quelques piecettes vous pouvez étendre les fonctionalités de votre Licorne
+
 
 
 
