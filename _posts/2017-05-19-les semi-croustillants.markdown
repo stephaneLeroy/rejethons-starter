@@ -32,8 +32,11 @@ S'adressant à une cible de 8 ans et plus, les joueurs de tous âges pourront s'
 ![screen]({{site.baseurl}}/img/SC_screen6.png)
 
 Ecran du bracelet :
+
 ![screen]({{site.baseurl}}/img/Home.png)
+
 ![screen]({{site.baseurl}}/img/Map.png)
+
 ![screen]({{site.baseurl}}/img/Enigme.png)
 
 
