@@ -8,7 +8,7 @@ img: cochon-vert-300x300.jpg
 alt: Piggy Mon€y
 ---
 <h1>Une idée innovante</h1>
-<div style="text-align:justify;font-size;28px;"><i class="fa fa-asterisk fa-2" aria-hidden="true"></i> Piggy Mon€y, c'est une tirelire, mais pas n'importe laquelle ! Avec Piggy, les enfants savent à n'importe quel moment combien d'argent ils possèdent, et les parents peuvent gérer l'argent qu'ils leur donnent... Un compte bancaire adapté à la jeunesse ! </div>
+<div style="text-align:justify;font-size:38px;"><i class="fa fa-asterisk fa-2" aria-hidden="true"></i> Piggy Mon€y, c'est une tirelire, mais pas n'importe laquelle ! Avec Piggy, les enfants savent à n'importe quel moment combien d'argent ils possèdent, et les parents peuvent gérer l'argent qu'ils leur donnent... Un compte bancaire adapté à la jeunesse ! </div>
 
 <table> <tr> <td style="width:65%; border:#2c3e50 solid 4px;text-align:justify;"> 
 
