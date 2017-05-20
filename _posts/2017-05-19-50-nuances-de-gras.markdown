@@ -1,3 +1,12 @@
+---
+layout: project
+title: Baby Safe
+date: 2017-05-19
+team: 50 Nuances de Gras
+# Cette image doit etre deposee dans le repertoire /img/projects de ce site.
+img: 50-nuances-de-gras.png
+alt: Baby Safe
+---
 <html>
 <p>
 <h2>Mobile connecté Baby Safe, par la Société Anonyme "50 Nuances de Gras"</h2>
