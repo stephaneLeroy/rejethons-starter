@@ -81,4 +81,13 @@ Dès 500000 €, lancement du modèle Narval
 Nouvelle fonctionnalité : Contrôle d'alcoolémie & détection de substances toxiques
 
 
-![Diapositive 6]({{ site.baseurl }}/img/unicorn.gif)
+
+
+Console d'administration
+
+Pour quelques piecettes vous pouvez étendre les fonctionalités de votre Licorne
+![Diapositive 6]({{ site.baseurl }}/img/admin.png)
+
+
+
+![Diapositive 7]({{ site.baseurl }}/img/unicorn.gif)
