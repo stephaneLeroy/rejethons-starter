@@ -32,7 +32,7 @@ alt: Piggy Mon€y
 
 <center> <h2 class="bg-warning" style="height:50px; font-size:22px;">Un concept de banque, adapté aux enfants !</h2></center>
 
-<div class="fa fa-bookmark-o">Pour les parents</div>
+<div class="fa fa-bookmark-o fa-2"> <h3>Pour les parents</h3></div>
 <ul>
 <li> Pouvoir mettre de l'argent en stock dans la tirelire</li>
 <li> Débloquer de l'argent 
@@ -43,7 +43,7 @@ alt: Piggy Mon€y
 </ul>
 <center><button type="button" class="fa fa-mobile" class="btn btn-danger">Et tout ça directement depuis son téléphone !</button></center>
 
-<div class="fa fa-bookmark-o">Pour les enfants</div>
+<div class="fa fa-bookmark-o fa-2"><h3>Pour les enfants</h3></div>
 <ul>
 <li> Toujours savoir l'argent qu'il possède</li>
 <li> Pouvoir retirer son argent quand il le souhaite</li>
@@ -62,7 +62,7 @@ alt: Piggy Mon€y
 sur les 4500€ attendus <br /><br />
 
 <button type="button" class="btn btn-danger"> Contribuez !</button>
-<span style="font-size:11px;">Actuellement, <span style="color:darkred;"> 7 </span> personnes ont contribué</span></center>
+<div style="font-size:11px;">Actuellement, <span style="color:darkred;"> 7 </span> personnes ont contribué</div></center>
 
 <div><h4>Pour 5€ donnés...</h4>
 - Un gros merci, et une pensée pour vous !<br />
