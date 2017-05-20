@@ -49,11 +49,11 @@ alt: Piggy Mon€y
 
 <center><button type="button" class="fa fa-superpowers" class="btn btn-danger">Et tout ça depuis sa tirelire !</button></center>
 <br /> <br />
-<img src="https://img4.hostingpics.net/pics/817482IMG20052017040222.jpg" style="width:60%;"/>
+<center><img src="https://img4.hostingpics.net/pics/817482IMG20052017040222.jpg" style="width:70%;"/></center>
 <div style="font-size:12px;text-align:center;">Piggy, c'est lui en ce moment ! </div>
 
  </td>  <td> 
-<img src="http://www.e-playbuyers.com/Files/86582/Img/11/TIR21V-Z2-1-.jpg" style="border-bottom:3px solid black;"/>
+<img src="http://www.e-playbuyers.com/Files/86582/Img/11/TIR21V-Z2-1-.jpg" style="border-bottom:3px solid black;width:200px;"/>
 <center>Nous avons <br />
 <div style="font-size:25px;text-align:center;color:darkred;background-image:url('http://icon-icons.com/icons2/550/PNG/96/business-color_pig_icon-icons.com_53440.png'); padding-top:40px;padding-left:6px;width:96px; height:96px;"> 104 €<br />
 </div> 
