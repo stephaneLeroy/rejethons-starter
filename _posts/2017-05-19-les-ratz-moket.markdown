@@ -12,6 +12,7 @@ alt: Piggy Mon€y
 
 <table> <tr> <td style="width:65%; border:#2c3e50 solid 4px;text-align:justify;"> 
 
+<center><img src="https://img4.hostingpics.net/pics/752337Logomakr1eh0MS.png" /></center>
 
 <i class="fa fa-asterisk fa-2" aria-hidden="true"></i> Avec Piggy, les parents peuvent contrôler l'argent de poche de leurs enfants. Ils peuvent les récompenser en ajoutant de l'argent dans la tirelire, et Piggy s'allume pour prévenir l'enfant ! Celui-ci peut voir directement combien il a gagné d'argent, et son argent total ! 
 
