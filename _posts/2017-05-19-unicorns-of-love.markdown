@@ -9,3 +9,5 @@ alt: Nom du projet?
 ---
 
 Pourquoi soutenir ce projet ?
+
+![Diapositive 1]({{ site.baseurl }}/img/Diapositive1.JPG)
