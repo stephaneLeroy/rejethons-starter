@@ -10,6 +10,7 @@ alt: MyQuest
 
 <iframe class="center-block" src="//rejethons.libcast.com/widget/semi_croustillants-mp4" class="libcast_player" width="1280" height="720" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
+
 ![logo MQuest] ({{site.baseurl}}/img/logo_myquest.png)
 
 MyQuest, c'est une nouvelle solution pour mettre de l'interactivité et de l'aventure, ancrée dans le réel. 
