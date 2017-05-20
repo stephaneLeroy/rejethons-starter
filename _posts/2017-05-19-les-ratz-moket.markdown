@@ -1,9 +1,9 @@
 ---
 layout: project
-title: Nom du projet?
+title: Piggy Mon€y
 date: 2017-05-19
 team: Rat'z Moket
 # Cette image doit etre deposee dans le repertoire /img/projects de ce site.
 img: les-ratz-moket.jpg
-alt: Nom du projet?
+alt: Piggy Mon€y
 ---
