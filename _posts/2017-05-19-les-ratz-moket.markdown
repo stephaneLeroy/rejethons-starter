@@ -19,7 +19,7 @@ alt: Piggy Mon€y
 
 <center> <h2 class="bg-warning" style="height:50px; font-size:22px;">La tirelire nouvelle génération</h2></center>
 
-<iframe src="//rejethons.libcast.com/widget/ratsmoket-mov" class="libcast_player center-block" width="1280" height="720" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="//rejethons.libcast.com/widget/ratsmoket-mov" class="libcast_player center-block" width="600" height="auto" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 <i class="fa fa-asterisk fa-2" aria-hidden="true"></i> Piggy Mon€y se présente sous la forme d'un cochon-tirelire, et dispose d'une fente dans laquelle glisser les pièces. Celles-ci sont automatiquement détectées, et les yeux de Piggy s'allument grâce à cette entrée d'argent ! Un écran est situé sur son dos, permettant à l'enfant de consulter son total d'argent disponible, et de le retirer. 
 
