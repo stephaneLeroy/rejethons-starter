@@ -12,6 +12,24 @@ alt: Piggy Mon€y
 
 <table> <tr> <td> 
 <i class="fa fa-asterisk fa-2" aria-hidden="true"></i> Avec Piggy, les parents peuvent contrôler l'argent de poche de leurs enfants. Ils peuvent les récompenser en ajoutant de l'argent dans la tirelire, et Piggy s'allume pour prévenir l'enfant ! Celui-ci peut voir directement combien il a gagné d'argent, et son argent total ! 
+
+
+<center> <h2 class="bg-warning" style="height:50px; font-size:22px;">La tirelire nouvelle génération</h2></center>
+<i class="fa fa-asterisk fa-2" aria-hidden="true"></i> Piggy Mon€y se présente sous la forme d'un cochon-tirelire, et dispose d'une fente dans laquelle glisser les pièces. Celles-ci sont automatiquement détectées, et les yeux de Piggy s'allument grâce à cette entrée d'argent ! Un écran est situé sur son dos, permettant à l'enfant de consulter son total d'argent disponible, et de le retirer. 
+
+
+
+ <br /> <br /> <br />
+<div style="padding-left:200px;"> 
+<i class="fa fa-plus" aria-hidden="true"></i> Ludique <br />
+<i class="fa fa-plus" aria-hidden="true"></i> Facile d'utilisation <br />
+<i class="fa fa-plus" aria-hidden="true"></i> Prépare à gérer son argent <br />
+<i class="fa fa-plus" aria-hidden="true"></i> Tout se fait en 1 click ! <br />
+</div>
+
+
+
+
 <center> <h2 class="bg-warning" style="height:50px; font-size:22px;">Un concept de banque, adapté aux enfants !</h2></center>
 
 <div class="fa fa-bookmark-o">Pour les parents</div>
@@ -23,7 +41,7 @@ alt: Piggy Mon€y
 <li> Accéder à l'historique des transactions, savoir ce que l'enfant a retiré, et connaître l'état actuel de la tirelire</li>
 <li> Être averti quand il n'y a plus d'argent en stock</li>
 </ul>
-<center><span class="fa fa-mobile">Et tout ça directement depuis son téléphone !</span></center>
+<center><button type="button" class="fa fa-mobile" class="btn btn-danger">Et tout ça directement depuis son téléphone !</button></center>
 
 <div class="fa fa-bookmark-o">Pour les enfants</div>
 <ul>
@@ -32,20 +50,7 @@ alt: Piggy Mon€y
 <li> Être indépendant de ses parents pour financer ses petits projets !</li>
 </ul>
 
-<center><span class="fa fa-mobile">Et tout ça depuis sa tirelire !</span></center>
-
-
-<center> <h2 class="bg-warning" style="height:50px; font-size:22px;">La tirelire nouvelle génération</h2></center>
-<i class="fa fa-asterisk fa-2" aria-hidden="true"></i> Piggy Mon€y se présente sous la forme d'un cochon-tirelire, et dispose d'une fente dans laquelle glisser les pièces. Celles-ci sont automatiquement détectées, et les yeux de Piggy s'allument grâce à cette entrée d'argent ! Un écran est situé sur son dos, permettant à l'enfant de consulter son total d'argent disponible, et de le retirer. 
-
-
-
-
-
-<i class="fa fa-plus" aria-hidden="true"></i> Ludique <br />
-<i class="fa fa-plus" aria-hidden="true"></i> Facile d'utilisation <br />
-<i class="fa fa-plus" aria-hidden="true"></i> Prépare à gérer son argent <br />
-<i class="fa fa-plus" aria-hidden="true"></i> Tout se fait en 1 click ! <br />
+<center><button type="button" class="fa fa-superpowers" class="btn btn-danger">Et tout ça depuis sa tirelire !</button></center>
 
 
 
