@@ -57,7 +57,32 @@ Nous avons <br />
 sur les 4500€ attendus <br /><br />
 
 <center><button type="button" class="btn btn-danger"> Contribuez !</button></center>
-<br /> <br />
 <span style="font-size:11px;">Actuellement, <span style="color:darkred;"> 7 </span> personnes ont contribué</span>
+
+<div><h4>Pour 5€ donnés...</h4>
+- Un gros merci, et une pensée pour vous !
+</div>
+<div><h4>Pour 20€ donnés...</h4>
+- Un gros merci, et une pensée pour vous !
+- Un poster dédicacé par nos développeurs !
+</div>
+<div><h4>Pour 35€ donnés...</h4>
+- Un gros merci, et une pensée pour vous !
+- Un poster dédicacé par nos développeurs !
+- Un porte-monnaie en forme de cochon !
+</div>
+<div><h4>Pour 50€ et + donnés...</h4>
+- Un gros merci, et une pensée pour vous !
+- Un poster dédicacé par nos développeurs !
+- Un porte-monnaie en forme de cochon !
+- Un cochon-tireline (mais non connectée !)
+</div>
+<div><h4>Pour 50€ et + donnés...</h4>
+- Un gros merci, et une pensée pour vous !
+- Un poster dédicacé par nos développeurs !
+- Un porte-monnaie en forme de cochon !
+- Un cochon-tireline non connectée mais <b>collector !</b>
+</div>
+
 
 </td> </tr></table>
