@@ -19,7 +19,7 @@ De son côté le "maitre du jeu" (le parent) paramètre la partie et gère sa tr
 
 S'adressant à une cible de 8 ans et plus, les joueurs de tous âges pourront s'aventurer dans MyQuest pour triompher de l'inconnu et arriver au bout ode leur aventure, grâce à des scénarios personnalisés.
 
-<iframe src="![screen]({{site.baseurl}}/img/SC_screen01.png)" width="200"></iframe>
+![screen]({{site.baseurl}}/img/SC_screen01.png)
 
 ![screen]({{site.baseurl}}/img/SC_screen2.png)
 
