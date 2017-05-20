@@ -8,7 +8,7 @@ img: cochon-vert-300x300.jpg
 alt: Piggy Mon€y
 ---
 <h1>Une idée innovante</h1>
-<div style="text-align:justify;"><i class="fa fa-asterisk fa-2" aria-hidden="true"></i> Piggy Mon€y, c'est une tirelire, mais pas n'importe laquelle ! Avec Piggy, les enfants savent à n'importe quel moment combien d'argent ils possèdent, et les parents peuvent gérer l'argent qu'ils leur donnent... Un compte bancaire adapté à la jeunesse ! </div>
+<div style="text-align:justify;font-size;28px;"><i class="fa fa-asterisk fa-2" aria-hidden="true"></i> Piggy Mon€y, c'est une tirelire, mais pas n'importe laquelle ! Avec Piggy, les enfants savent à n'importe quel moment combien d'argent ils possèdent, et les parents peuvent gérer l'argent qu'ils leur donnent... Un compte bancaire adapté à la jeunesse ! </div>
 
 <table> <tr> <td style="width:65%; border:#2c3e50 solid 4px;text-align:justify;"> 
 
@@ -53,7 +53,7 @@ alt: Piggy Mon€y
 <div style="font-size:12px;text-align:center;">Piggy, c'est lui en ce moment ! </div>
 
  </td>  <td style="border:#2c3e50 solid 4px;text-align:justify;"> 
-<img src="http://www.e-playbuyers.com/Files/86582/Img/11/TIR21V-Z2-1-.jpg" style="border-bottom:3px solid black;"/>
+<img src="http://www.e-playbuyers.com/Files/86582/Img/11/TIR21V-Z2-1-.jpg" style="border-bottom:3px solid #2c3e50;"/>
 <center>Nous avons <br />
 <div style="font-size:25px;text-align:center;color:darkred;background-image:url('http://icon-icons.com/icons2/550/PNG/96/business-color_pig_icon-icons.com_53440.png'); padding-top:40px;padding-left:6px;width:96px; height:96px;"> 104 €<br />
 </div> 
