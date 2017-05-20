@@ -9,7 +9,7 @@ alt: Piggy Mon€y
 ---
 <h1>Une idée innovante</h1>
 
-<table> <tr> <td>
+<table> <tr> <td> 
 <i class="fa fa-asterisk fa-2" aria-hidden="true"></i> Piggy Mon€y, c'est une tirelire, mais pas n'importe laquelle ! Avec Piggy, les enfants savent à n'importe quel moment combien d'argent ils possèdent, et les parents peuvent gérer l'argent qu'ils leur donnent... Un compte bancaire adapté à la jeunesse ! 
 
 <div><span class="fa fa-question-circle fa-5"></span>L'idée</div>
@@ -61,5 +61,8 @@ sur les 4500€ demandés
 
 <button type="button" class="btn btn-danger"> Contribuez !</button>
 
+Actuellement, <br >
+<span style="color:darkred;"> 7 </span> 
+personnes ont contribué
 
 </td> </tr></table>
