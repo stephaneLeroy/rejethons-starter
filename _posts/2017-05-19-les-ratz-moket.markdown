@@ -24,13 +24,27 @@ Avec Piggy, les parents peuvent contrôler l'argent de poche de leurs enfants. I
 <li> Accéder à l'historique des transactions, savoir ce que l'enfant a retiré, et connaître l'état actuel de la tirelire</li>
 <li> Être averti quand il n'y a plus d'argent en stock</li>
 </ul>
-
 <center><span class="fa fa-mobile" class="bg-success" >Et tout ça directement depuis son téléphone !</span></center>
 
-
-
-
-
 <div class="fa fa-bookmark-o">Pour les enfants</div>
+<ul>
+<li> Toujours savoir l'argent qu'il possède
+<li> Pouvoir retirer son argent quand il le souhaite</li>
+<li> Être indépendant de ses parents pour financer ses petits projets !</li>
+</ul>
 
+<center><span class="fa fa-mobile" class="bg-success" >Et tout ça depuis sa tirelire !</span></center>
+
+
+<div class="fa fa-bookmark-o">La tirelire</div>
+Piggy Mon€y se présente sous la forme d'un cochon-tirelire, et dispose d'une fente dans laquelle glisser les pièces. Celles-ci sont automatiquement détectées, et les yeux de Piggy s'allument grâce à cette entrée d'argent ! Un écran est situé sur son dos, permettant à l'enfant de consulter son total d'argent disponible, et de le retirer. 
+
+
+
+
+
+<i class="fa fa-plus" aria-hidden="true"></i> Ludique
+<i class="fa fa-plus" aria-hidden="true"></i> Facile d'utilisation
+<i class="fa fa-plus" aria-hidden="true"></i> Prépare à gérer son argent
+<i class="fa fa-plus" aria-hidden="true"></i> Tout se fait en 1 click !
 
