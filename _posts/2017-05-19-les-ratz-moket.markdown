@@ -49,7 +49,7 @@ alt: Piggy Mon€y
 
 <center><button type="button" class="fa fa-superpowers" class="btn btn-danger">Et tout ça depuis sa tirelire !</button></center>
 <br /> <br />
-<img src="https://img4.hostingpics.net/pics/817482IMG20052017040222.jpg" style="width:100%;"/>
+<img src="https://img4.hostingpics.net/pics/817482IMG20052017040222.jpg" style="width:60%;"/>
 <div style="font-size:12px;text-align:center;">Piggy, c'est lui en ce moment ! </div>
 
  </td>  <td> 
