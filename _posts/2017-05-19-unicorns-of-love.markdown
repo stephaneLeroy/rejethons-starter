@@ -79,3 +79,6 @@ Nouvelle fonctionnalité : Branchement aux API Google.AI
 
 Dès 500000 €, lancement du modèle Narval
 Nouvelle fonctionnalité : Contrôle d'alcoolémie & détection de substances toxiques
+
+
+![Diapositive 5]({{ site.baseurl }}/img/Diapositive6.JPG)
