@@ -7,18 +7,15 @@ team: 50 Nuances de Gras
 img: 50-nuances-de-gras.png
 alt: Baby Safe
 ---
-<html>
-<p>
-<h2>Baby Safe, la sécurité Mobile !</h2>
+## Baby Safe, la sécurité Mobile !
 
-<iframe class="center-block" src="//rejethons.libcast.com/widget/baby_safe-mov" class="libcast_player" width="1280" height="720" frameborder="0" scrolling="no" allowfullscreen></iframe> 
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="//rejethons.libcast.com/widget/baby_safe-mov" class="libcast_player" width="960" height="540" frameborder="0" scrolling="no" allowfullscreen align="center"></iframe>
+</div>
 
 <br />
 
-<p>
-<h3><u>Baby Safe, un projet pensé par des parents, pour vos enfants.</u></h3>
-</p>
-
+### Baby Safe, un projet pensé par des parents, pour vos enfants.</u></h3>
 <p>
 <b>Chez Pictime, nous sommes sensibles à nos enfants et à leur sécurité. C'est pourquoi nous avons conçu Baby Safe.</b>
 </p>
@@ -28,12 +25,12 @@ Tout en conservant son aspect ludique originel, notre mobile connecté baby safe
 Facilement fixable à son berceau ou son lit, il vous prévient de l'état de l'enfant en temps réel : bruits, température de la pièce, qualité de l'air, ...
 Vous pouvez également jouer de la musique, une berçeuse, ou une comptine, le tout depuis votre smartphone.
 </p>
-<p>
+
 Votre mobile Baby Safe est équipé de base de 3 modules, qui vous transmettent des données spécifiques en temps réel : 
-- Un microphone : en cas de cris, pleurs, gémissements ou même apnée du nourisson grâce à sa haute sensibilité réglable.
-- Un thermomètre : si la température de la pièce atteint un seuil trop bas ou trop élevé.
-- Un capteur de qualité de l'air 3 en 1 : taux anormal d'humidité, présence de monoxyde de carbone ou de fumée.
-</p>
+* Un microphone : en cas de cris, pleurs, gémissements ou même apnée du nourisson grâce à sa haute sensibilité réglable.
+* Un thermomètre : si la température de la pièce atteint un seuil trop bas ou trop élevé.
+* Un capteur de qualité de l'air 3 en 1 : taux anormal d'humidité, présence de monoxyde de carbone ou de fumée.
+
 <p>
 Le mobile est accompagné d'une application pour smartphone hautement configurable. 
 Elle vous permet de gérer les notifications push (temps réel), de régler les différents capteurs, et de jouer de la musique pour votre enfant.
@@ -54,4 +51,3 @@ En outre, différents thèmes existent, comme l'espace, les dinosaures, les anim
 Enfin, vous pourrez retrouver toutes les statistiques du sommeil de votre enfant sur l'application et par mail. 
 Vous pourrez ainsi étudier les courbes et durées de ses cycles de sommeil, connaitre les heures et raisons principales de ses réveils et bien d'autre !
 </p>
-<html>

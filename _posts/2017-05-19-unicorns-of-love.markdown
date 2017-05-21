@@ -7,7 +7,11 @@ team: Unicorns of Love
 img: unicorns-of-love.png
 alt: Cornecté
 ---
-<iframe class="center-block" src="//rejethons.libcast.com/widget/unicorns_of_love-mov" class="libcast_player" width="1280" height="720" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="//rejethons.libcast.com/widget/unicorns_of_love-mp4" class="libcast_player" width="960" height="540" frameborder="0" scrolling="no" allowfullscreen align="center"></iframe>
+</div>
+
 
 372 510 € sur 250 000 €
 
