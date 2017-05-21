@@ -15,7 +15,7 @@ alt: Baby Safe
 
 <br />
 
-### Baby Safe, un projet pensé par des parents, pour vos enfants.</u></h3>
+### Baby Safe, un projet pensé par des parents, pour vos enfants.
 <p>
 <b>Chez Pictime, nous sommes sensibles à nos enfants et à leur sécurité. C'est pourquoi nous avons conçu Baby Safe.</b>
 </p>
