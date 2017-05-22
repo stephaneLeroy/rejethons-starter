@@ -8,19 +8,24 @@ img: unicorns-of-love.png
 alt: Cornecté
 ---
 
+
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="//rejethons.libcast.com/widget/unicorns_of_love-mp4" class="libcast_player" width="960" height="540" frameborder="0" scrolling="no" allowfullscreen align="center"></iframe>
 </div>
 
+# Financement :
 
-372 510 € sur 250 000 €
-
-2 339 contributeurs
-
-16 j restants
+* **372 510 € sur 250 000 €**
+* **2 339 contributeurs**
+* **16 jours restants**
 
 
-Pourquoi soutenir ce projet ?
+
+<br>
+<br>
+<br>
+
+# Pourquoi soutenir ce projet ?
 
 Le premier objet connecté vraiment adapté aux enfants et aux parents !
 
@@ -29,6 +34,11 @@ Soit Ma licorne ou Mon Dinosaure à 999 €.
 
 Des récompenses exclusives dès que le projet est intégralement financé !
 
+<br>
+<br>
+
+# Le concept cornecté :
+
 ![Diapositive 1]({{ site.baseurl }}/img/Diapositive1.JPG)
 
 
@@ -36,6 +46,10 @@ Des récompenses exclusives dès que le projet est intégralement financé !
  Le financement servira à créer les 2 premiers modèles : Ma licorne et Mon dinosaure.
  Suivront, le dragon, le panda roux & le narval.
 
+<br>
+<br>
+
+# La licorne :
 
 ![Diapositive 2]({{ site.baseurl }}/img/Diapositive2.JPG)
 
@@ -43,17 +57,27 @@ Des récompenses exclusives dès que le projet est intégralement financé !
 Ma licorne pensée pour les petites filles ou les petits garçons ( Cornecté a obtenu le prix de l'innovation LGBT 2017 au concours disruptive innovation in 62 de Montigny-en-Gohelle ).
 Il comporte des fonctionnalités innovantes & inédites.
 
+<br>
+<br>
+
+# Le dinosaure :
 
 ![Diapositive 3]({{ site.baseurl }}/img/Diapositive3.JPG)
 
 
 Mon dinosaure pensé pour les petites filles ou les petits garçons ( Cornecté a obtenu la médaille d'argent du salon IOT & Paleontology de Denver ).
 
-Il comporte des fonctionnalités innovantes & inédites.
+<br>
+<br>
 
+# Des fonctionnalités innovantes & inédites :
 
 ![Diapositive 4]({{ site.baseurl }}/img/Diapositive4.JPG)
 
+<br>
+<br>
+
+# La sécurité avant tout :
 
 Au delà du côté irrésistible pour les enfants, Cornecté a été conçu en respectant les normes les plus contraignantes de sécurité et de protection des données personnelles. Cornecté a obtenu la norme ISO-59001 et est hebergé par Coreye ( 3 ème BU dans l'équipe donc +25% de poins :) :)
 
@@ -62,36 +86,52 @@ Au delà du côté irrésistible pour les enfants, Cornecté a été conçu en r
 
 Pour un peu plus cher qu'un week-end à Hardelot, offrez à votre enfant & à vous une source de divertissement inépuisable qui rendra jaloux les autres enfants dans la cour de l'école et lui permettra d'atteindre des sommets de popularité inaccessible aux enfants de pauvre.
 
+<br>
+<br>
 
-Les récompenses :
-Dès 250000 €, la licorne et le triceratops complétement fonctionnels :
-Géolocalisation
-Contrôle de la température de l'enfant 
-Ecouter de la musique
-Raconter une histoire
-Gestion du sommeil ( aide à l'endormissement, monitoring du sommeil & réveil en douceur )
-Emission de lumière 
-Gestion Multilingue
-GPS - Itinéraire
-Détection de chocs ou de chutes
+# Les récompenses
 
-Dès 300000 €, lancement du modèle Dragon
-Nouvelle fonctionnalité : Contrôle de glycémie & injonction d'insuline
+## Dès 250000 €, la licorne et le triceratops complétement fonctionnels :
 
-Dès 400000 €, lancement du modèle Panda Roux
-Nouvelle fonctionnalité : Branchement aux API Google.AI
+* Géolocalisation
+* Contrôle de la température de l'enfant 
+* Ecouter de la musique
+* Raconter une histoire
+* Gestion du sommeil ( aide à l'endormissement, monitoring du sommeil & réveil en douceur )
+* Emission de lumière 
+* Gestion Multilingue
+* GPS - Itinéraire
+* Détection de chocs ou de chutes
 
-Dès 500000 €, lancement du modèle Narval
-Nouvelle fonctionnalité : Contrôle d'alcoolémie & détection de substances toxiques
+<br>
 
+## Dès 300 000 €, lancement du modèle Dragon
 
+* Nouvelle fonctionnalité : Contrôle de glycémie & injonction d'insuline
 
+<br>
+
+## Dès 400 000 €, lancement du modèle Panda Roux
+
+* Nouvelle fonctionnalité : Branchement aux API Google.AI
+
+<br>
+
+## Dès 500000 €, lancement du modèle Narval
+
+* Nouvelle fonctionnalité : Contrôle d'alcoolémie & détection de substances toxiques
+
+<br>
+<br>
+
+# Console d'administration et d'achats complémentaires
 
 ![Diapositive 6]({{ site.baseurl }}/img/admin.png)
-Console d'administration
-Pour quelques piecettes vous pouvez étendre les fonctionalités de votre Licorne
 
+Pour quelques piecettes vous pouvez étendre les fonctionalités de votre animal cornecté
 
+<br>
+<br>
 
 
 ![Diapositive 7]({{ site.baseurl }}/img/unicorn.gif)
