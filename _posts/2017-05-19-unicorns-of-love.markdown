@@ -20,31 +20,32 @@ alt: Cornecté
 * **16 jours restants**
 
 
-
-<br>
 <br>
 <br>
 
 # Pourquoi soutenir ce projet ?
 
-Le premier objet connecté vraiment adapté aux enfants et aux parents !
+Le premier objet connecté vraiment **adapté aux enfants et aux parents** !
 
-20% de remise pour les premiers financeurs sachant que ce super jouet sera vite collector !
-Soit Ma licorne ou Mon Dinosaure à 999 €.
+**20% de remise** pour les premiers financeurs sachant que ce super jouet sera vite **collector** !
+
+Soit Ma licorne ou Mon Dinosaure à seulement **999 €**.
 
 Des récompenses exclusives dès que le projet est intégralement financé !
 
 <br>
 <br>
 
-# Le concept cornecté :
+# Le concept ***Cornecté***&#9400; :
 
 ![Diapositive 1]({{ site.baseurl }}/img/Diapositive1.JPG)
 
 
- Cornecté est un concept de jouet connecté pouvant se décliner selon différentes versions.
- Le financement servira à créer les 2 premiers modèles : Ma licorne et Mon dinosaure.
- Suivront, le dragon, le panda roux & le narval.
+ ***Cornecté***&#9400; est un concept de jouet connecté pouvant se décliner selon différentes versions.
+ 
+ Le financement servira à créer les 2 premiers modèles : **Ma licorne et Mon dinosaure**.
+ 
+ Suivront, **le dragon, le panda roux & le narval**.
 
 <br>
 <br>
@@ -54,7 +55,10 @@ Des récompenses exclusives dès que le projet est intégralement financé !
 ![Diapositive 2]({{ site.baseurl }}/img/Diapositive2.JPG)
 
 
-Ma licorne pensée pour les petites filles ou les petits garçons ( Cornecté a obtenu le prix de l'innovation LGBT 2017 au concours disruptive innovation in 62 de Montigny-en-Gohelle ).
+**Ma licorne** pensée pour les petites filles ou les petits garçons.
+
+***Cornecté***&#9400; a obtenu le **prix de l'innovation LGBT 2017** au concours disruptive innovation in 62 de Montigny-en-Gohelle.
+
 Il comporte des fonctionnalités innovantes & inédites.
 
 <br>
@@ -65,7 +69,9 @@ Il comporte des fonctionnalités innovantes & inédites.
 ![Diapositive 3]({{ site.baseurl }}/img/Diapositive3.JPG)
 
 
-Mon dinosaure pensé pour les petites filles ou les petits garçons ( Cornecté a obtenu la médaille d'argent du salon IOT & Paleontology de Denver ).
+**Mon dinosaure** pensé pour les petites filles ou les petits garçons.
+
+***Cornecté***&#9400; a obtenu la médaille d'argent du salon IOT & Paleontology de Denver.
 
 <br>
 <br>
@@ -79,12 +85,15 @@ Mon dinosaure pensé pour les petites filles ou les petits garçons ( Cornecté 
 
 # La sécurité avant tout :
 
-Au delà du côté irrésistible pour les enfants, Cornecté a été conçu en respectant les normes les plus contraignantes de sécurité et de protection des données personnelles. Cornecté a obtenu la norme ISO-59001 et est hebergé par Coreye ( 3 ème BU dans l'équipe donc +25% de poins :) :)
+Au delà du côté irrésistible pour les enfants, ***Cornecté***&#9400; a été conçu en respectant les normes les plus contraignantes de **sécurité et de protection des données personnelles**. 
+
+***Cornecté***&#9400; a obtenu la norme ISO-59001 et est hebergé par ***Coreye*** 
+3ème Marque dans l'équipe donc +25% de points :) :)
 
 ![Diapositive 5]({{ site.baseurl }}/img/Diapositive5.JPG)
 
 
-Pour un peu plus cher qu'un week-end à Hardelot, offrez à votre enfant & à vous une source de divertissement inépuisable qui rendra jaloux les autres enfants dans la cour de l'école et lui permettra d'atteindre des sommets de popularité inaccessible aux enfants de pauvre.
+Pour un peu plus cher qu'un week-end à Hardelot, offrez à votre enfant & à vous une source de **divertissement inépuisable** qui rendra jaloux les autres enfants dans la cour de l'école et lui permettra d'atteindre des sommets de popularité inaccessible aux enfants de pauvres.
 
 <br>
 <br>
@@ -128,7 +137,7 @@ Pour un peu plus cher qu'un week-end à Hardelot, offrez à votre enfant & à vo
 
 ![Diapositive 6]({{ site.baseurl }}/img/admin.png)
 
-Pour quelques piecettes vous pouvez étendre les fonctionalités de votre animal cornecté
+Pour quelques piecettes vous pouvez étendre les fonctionalités de votre animal ***Cornecté***&#9400;
 
 <br>
 <br>
