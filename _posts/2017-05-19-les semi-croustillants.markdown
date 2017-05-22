@@ -55,14 +55,14 @@ Des évolutions majeures sur les fonctionnalités : Des mini-jeux pour passer le
 
 # Récompenses Curateurs
 
-# 0 à 50
+# 0 à 50 €
 Code d'activation pour un abonnement (durée variable selon la donation)
 
-# 51 à 100
+# 51 à 100 €
 Bracelet "My First Quest" offert + code d'abonnement
 
-# 101 à 200
+# 101 à 200 €
 Bracelet MyQuest integral + code d'abonnement
 
-# 200 à 500
+# 200 à 500 €
 Toutes les récompenses précédentes + une invitation à un MyQuest géant dans un lieu privé
