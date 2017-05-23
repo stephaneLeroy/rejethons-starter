@@ -133,7 +133,7 @@ Pour un peu plus cher qu'un week-end à Hardelot, offrez à votre enfant & à vo
 <br>
 <br>
 
-# Console d'administration et d'achats complémentaires
+# Administration et achats complémentaires
 
 ![Diapositive 6]({{ site.baseurl }}/img/admin.png)
 
