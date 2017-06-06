@@ -26,6 +26,7 @@
                         </ul>
                     </div>
                     <div class="tab-pane" id="add-comment">
+                        <h4>Attentions! Seuls les votes dont le nom/prenom est identifiable seront comptabilises</h4>
                         <form action="https://api.staticman.net/v2/entry/stephaneLeroy/rejethons-starter/master/comments" method="post" class="form-horizontal" id="commentForm" role="form">
                             <input name="options[redirect]" type="hidden" value="{{site.url}}{{site.baseurl}}{{page.url}}">
                             <input name="options[slug]" type="hidden" value="{{ page.slug }}">
